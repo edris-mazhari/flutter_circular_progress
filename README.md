@@ -12,7 +12,7 @@ dependencies:
 
 ## Getting started
 
-All features you can use :
+All features you can use :<br>
 ![complete](https://github.com/edris-mazhari/flutter_circular_progress/assets/91206674/49383266-710d-4c9e-b979-7d2d78134910)
 
 
