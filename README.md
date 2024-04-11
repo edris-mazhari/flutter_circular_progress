@@ -3,11 +3,11 @@ Load your data more beautiful.
 
 ## Installation
 
-You just need to add ```flutter_circular_progress``` as a dependency in your pubspec.yaml file.
+You just need to add ```flutter_circular_progress_indicator``` as a dependency in your pubspec.yaml file.
 
 ```dart
 dependencies:
-  flutter_circular_progress: ^0.0.1
+  flutter_circular_progress_indicator: ^0.0.1
 ```
 
 ## Getting started
