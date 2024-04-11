@@ -1,19 +1,20 @@
 
 Load your data more beautiful.
-## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+## Installation
+
+You just need to add <span style="color: red">flutter_circular_progress</span> as a dependency in your pubspec.yaml file.
+
+```dart
+dependencies:
+  flutter_circular_progress: ^0.0.1
+```
 
 ## Getting started
+
 All features you can use :
+![complete](https://github.com/edris-mazhari/flutter_circular_progress/assets/91206674/49383266-710d-4c9e-b979-7d2d78134910)
 
-![Uploading complete.gif…]()
-
-
-
-
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
 
 ## Usage
 
