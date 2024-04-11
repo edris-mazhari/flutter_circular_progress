@@ -1,4 +1,4 @@
-library flutter_circular_progress;
+library flutter_circular_progress_indicator;
 
 import 'dart:async';
 import 'package:flutter/material.dart';
