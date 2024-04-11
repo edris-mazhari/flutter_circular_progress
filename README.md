@@ -84,7 +84,7 @@ CircularProgressInd().normalCircular(
                       padding: EdgeInsets.all(10),
                       backgroundBorder:
                           Border.all(color: Colors.deepPurple, width: 3),
-                      valueWidth: 6)
+                      valueWidth: 6);
 ```
 
 ![rectangle_background](https://github.com/edris-mazhari/flutter_circular_progress/assets/91206674/adf12d35-6c44-4944-88f8-15e4cbb5bef2)
@@ -105,10 +105,5 @@ CircularProgressInd().normalCircular(
                       backgroundBorder: Border.all(
                           color: const Color.fromARGB(255, 23, 82, 27),
                           width: 3),
-                      valueWidth: 6)
+                      valueWidth: 6);
 ```
-## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
