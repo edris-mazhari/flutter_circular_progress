@@ -5,6 +5,10 @@ Load your data more beautiful.
 TODO: List what your package can do. Maybe include images, gifs, or videos.
 
 ## Getting started
+All features you can use :
+
+https://github.com/edris-mazhari/flutter_circular_progress/assets/91206674/2728bc33-f110-4455-9211-06014a2b02d3
+
 
 TODO: List prerequisites and provide or point to information on how to
 start using the package.
