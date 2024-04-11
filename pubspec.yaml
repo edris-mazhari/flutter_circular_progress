@@ -1,7 +1,7 @@
 name: flutter_circular_progress
 description: "A new Flutter package project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/edris-mazhari/flutter_circular_progress/
 
 environment:
   sdk: '>=3.3.0 <4.0.0'
@@ -14,7 +14,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^3.0.0
+  # flutter_lints: ^3.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
