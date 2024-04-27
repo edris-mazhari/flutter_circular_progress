@@ -97,7 +97,9 @@ class _NormalCircularProgressIndState extends State<NormalCircularProgressInd> {
     if (widget.isSpining == true) {
       Timer(Duration.zero, () {
         turns += nextTurn;
-        setState(() {});
+        if (mounted) {
+          setState(() {});
+        }
       });
       startSpin();
     }
@@ -122,7 +124,9 @@ class _NormalCircularProgressIndState extends State<NormalCircularProgressInd> {
       } else {
         turns += nextTurn;
       }
-      setState(() {});
+      if (mounted) {
+        setState(() {});
+      }
     });
   }
 

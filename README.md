@@ -1,6 +1,11 @@
 
 Load your data more beautiful.
 
+
+## Fixed Bugs
+  V 0.0.2 :
+  ```setState error fixed```
+
 ## Installation
 
 You just need to add ```flutter_circular_progress_indicator``` as a dependency in your pubspec.yaml file.
